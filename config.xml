@@ -18,6 +18,6 @@
     </author>
     
     <preference name="fullscreen" value="true" />
-    <gap:splash src="app.png" />
-    <icon src="app.png" />
+    <gap:splash src="App.png" />
+    <icon src="App.png" />
 </widget>
